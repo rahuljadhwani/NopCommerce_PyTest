@@ -165,3 +165,34 @@
 2021-04-16 19:19:36,416: INFO: ******* Login DDT test passed ******
 2021-04-16 19:19:36,475: INFO: ********* End of Login_002 DDT test *********
 2021-04-16 19:19:36,475: INFO: ********* End of Login_002 DDT test *********
+2021-04-16 21:08:26,239: INFO: ************** Test_001_Login *************
+2021-04-16 21:08:26,239: INFO: ************** Verifying Home Page Title *************
+2021-04-16 21:08:34,167: INFO: ************** Home Page Title test has passed *************
+2021-04-16 21:08:35,180: INFO: ************** Verifying Login test *************
+2021-04-16 21:08:45,527: INFO: ************** Login test has passed *************
+2021-04-16 21:12:30,877: INFO: ************** Test_001_Login *************
+2021-04-16 21:12:30,877: INFO: ************** Test_001_Login *************
+2021-04-16 21:12:30,877: INFO: ************** Verifying Home Page Title *************
+2021-04-16 21:12:30,877: INFO: ************** Verifying Home Page Title *************
+2021-04-16 21:12:40,986: INFO: ************** Home Page Title test has passed *************
+2021-04-16 21:12:40,986: INFO: ************** Home Page Title test has passed *************
+2021-04-16 21:12:42,060: INFO: ************** Verifying Login test *************
+2021-04-16 21:12:42,060: INFO: ************** Verifying Login test *************
+2021-04-16 21:12:54,951: INFO: ************** Login test has passed *************
+2021-04-16 21:12:54,951: INFO: ************** Login test has passed *************
+2021-04-16 21:12:56,087: INFO: ********* Login_002 DDT test starts *********
+2021-04-16 21:12:56,087: INFO: ********* Login_002 DDT test starts *********
+2021-04-16 21:12:56,087: INFO: ************** Verifying Login test DDT *************
+2021-04-16 21:12:56,087: INFO: ************** Verifying Login test DDT *************
+2021-04-16 21:13:12,636: INFO: ****** Test Step Passed******
+2021-04-16 21:13:12,636: INFO: ****** Test Step Passed******
+2021-04-16 21:13:19,626: INFO: ****** Test Step Passed ******
+2021-04-16 21:13:19,626: INFO: ****** Test Step Passed ******
+2021-04-16 21:13:25,337: INFO: ****** Test Step Passed ******
+2021-04-16 21:13:25,337: INFO: ****** Test Step Passed ******
+2021-04-16 21:13:31,029: INFO: ****** Test Step Passed ******
+2021-04-16 21:13:31,029: INFO: ****** Test Step Passed ******
+2021-04-16 21:13:31,029: INFO: ******* Login DDT test passed ******
+2021-04-16 21:13:31,029: INFO: ******* Login DDT test passed ******
+2021-04-16 21:13:31,080: INFO: ********* End of Login_002 DDT test *********
+2021-04-16 21:13:31,080: INFO: ********* End of Login_002 DDT test *********
